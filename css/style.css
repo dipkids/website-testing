@@ -1,6 +1,7 @@
 img {
     border-radius:  100px;
     text-align: center;
+    margin: 20px;
 }
 body {
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,10 +24,5 @@ a {
     margin: 10px;
     display: block;
     color: slateblue;
-    text-align: center;
-}
-.content {
-    flex: 1; /* Takes up the remaining vertical space */
-    padding: 20px;
     text-align: center;
 }
