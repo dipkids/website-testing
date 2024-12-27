@@ -24,3 +24,8 @@ a {
     color: slateblue;
     text-align: center;
 }
+.content {
+    flex: 1; /* Takes up the remaining vertical space */
+    padding: 20px;
+    text-align: center;
+}
